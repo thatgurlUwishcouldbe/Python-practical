@@ -4,7 +4,9 @@ A course project for IT 1322 Big Data Analytics. The project explores whether a 
 
 ## Dataset
 
-The project uses `AIHumanDataset.csv`, which contains:
+The project requires `AIHumanDataset.csv`, provided with the course materials. The dataset is not included in this repository. Download it separately, then upload it to the Colab session before running the notebook.
+
+The CSV contains:
 
 - `text`: the text sample
 - `generated`: the class label
